@@ -1,0 +1,206 @@
+#btn{
+    border-radius: 25px;
+    font-size: xx-large;
+    background-color: rgb(2, 126, 100);
+    color: white;
+    border: white;
+    margin-left: 1070px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#btn:hover{
+    color: rgb(2, 126, 100);
+    background-color: white;
+    border: 2px solid black;
+    transition: 0.5s;
+}
+
+#d{
+    /* border: 2px solid black; */
+    height: 25px;
+    margin-top: 10px;
+    background-color: gainsboro;
+}
+
+#lbl1:hover{
+    color: goldenrod;
+    text-decoration: underline;
+    transition: 0.3s;
+}
+
+#lbl2:hover{
+    color: goldenrod;
+    text-decoration: underline;
+    transition: 0.3s;
+}
+
+#lbl3:hover{
+    color: goldenrod;
+    text-decoration: underline;
+    transition: 0.3s;
+}
+
+#lbl4:hover{
+    color: goldenrod;
+    text-decoration: underline;
+    transition: 0.3s;
+}
+
+#lbl5:hover{
+    color: goldenrod;
+    text-decoration: underline;
+    transition: 0.3s;
+}
+
+#lbl6:hover{
+    color: goldenrod;
+    text-decoration: underline;
+    transition: 0.3s;
+}
+
+#lbl7:hover{
+    color: goldenrod;
+    text-decoration: underline;
+    transition: 0.3s;
+}
+
+#lbl1
+{
+    margin-left: 10px;
+}
+
+#lbl2
+{
+    margin-left: 20px;
+}
+
+#lbl3
+{
+    margin-left: 20px;
+}
+
+#lbl4
+{
+    margin-left: 20px;
+}
+
+#lbl5
+{
+    margin-left: 20px;
+}
+
+#lbl6
+{
+    margin-left: 20px;
+}
+
+#lbl7
+{
+    margin-left: 20px;
+}
+
+#imgadv
+{
+    width: 1262px;   
+    height: 450px;
+}
+
+#imgadv2
+{
+    width: 1262px;   
+    height: 250px;
+}
+
+#btn1{
+    font-size: x-large;
+    border-radius: 20px;
+    width: 150px;
+    background-image: url("icons8-bag-35.png");
+    background-repeat: no-repeat;
+    border: white;
+}
+
+#btn2{
+    font-size: x-large;
+    border-radius: 20px;
+    width: 150px;
+    background-image: url("icons8-try-and-buy-25.png");
+    background-repeat: no-repeat;
+    border: white;
+    margin-left: 80px;
+}
+
+#btn3{
+    font-size: x-large;
+    border-radius: 20px;
+    width: 150px;
+    background-image: url("icons8-face-powder-25.png");
+    background-repeat: no-repeat;
+    border: white;
+    margin-left: 80px;
+}
+
+#btn4{
+    font-size: x-large;
+    border-radius: 20px;
+    width: 290px;
+    background-image: url("icons8-bag-35.png");
+    background-repeat: no-repeat;
+    border: white;
+    margin-left: 80px;
+}
+
+#btn5{
+    font-size: x-large;
+    border-radius: 20px;
+    width: 150px;
+    border: white;
+    margin-left: 80px;
+}
+
+#btn1:hover{
+    box-shadow: 0px 2px 5px black;
+    transition: 0.5s;
+}
+
+#btn2:hover{
+    box-shadow: 0px 2px 5px black;
+    transition: 0.5s;
+}
+
+#btn3:hover{
+    box-shadow: 0px 2px 5px black;
+    transition: 0.5s;
+}
+
+#btn4:hover{
+    box-shadow: 0px 2px 5px black;
+    transition: 0.5s;
+}
+
+#btn5:hover{
+    box-shadow: 0px 2px 5px black;
+    transition: 0.5s;
+}
+
+#txt{
+    height: 30px;
+    margin-left: 250px;
+    width: 650px;
+    background-color: whitesmoke;
+}
+
+#btnsrch
+{
+    font-size: large;   
+    height: 35px;
+    background-color: orange;
+    border: white;
+    color: white;
+}
+
+#btnsrch:hover
+{
+    color: black;
+    transition: 0.4s;
+}
